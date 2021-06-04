@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
             Padding(padding: EdgeInsets.only(top: 15)),
             Icon(Icons.accessibility, color: Colors.deepOrange, size: 80,),
             Padding(padding: EdgeInsets.only(top: 15)),
-            Text("Primer ejercicio", style: TextStyle(fontSize: 24, color: Colors.green),),
+            Text("Primer ejercicio, y me pidieron que fuera más extenso", style: TextStyle(fontSize: 24, color: Colors.green),),
             Row(
               children: [
                 Column(
